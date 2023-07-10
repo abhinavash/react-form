@@ -1,2 +1,2 @@
 # react-form
-basic-frm
+basic-form with simple state logic
